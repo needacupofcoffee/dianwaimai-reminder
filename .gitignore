@@ -1,0 +1,6 @@
+docs/superpowers/*
+.claude/*
+AGENTS.md
+__pycache__/
+**/__pycache__/
+*.pyc
